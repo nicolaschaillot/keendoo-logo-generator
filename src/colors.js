@@ -1,19 +1,23 @@
 export const COLORS = [
   {
-    'id': 'Dark blue',
-    'value': '#1F28BF',
+    'id': 'Keendoo primary blue',
+    'value': '#1F6B7E',
   },
   {
-    'id': 'Nuxeo blue',
-    'value': '#0066FF',
+    'id': 'Keendoo seconday blue',
+    'value': '#3B98AE',
   },
   {
-    'id': 'Light blue',
-    'value': '#00ADED',
+    'id': 'Keendoo tertiary blue',
+    'value': '#7CC4D1',
   },
   {
-    'id': 'Teal',
-    'value': '#73D2CF',
+    'id': 'Keendoo error red',
+    'value': '#EC2C45',
+  },
+  {
+    'id': 'Keendoo dev orange',
+    'value': '#FE6900',
   },
   {
     'id': 'Purple',
@@ -26,6 +30,10 @@ export const COLORS = [
   {
     'id': 'Orange',
     'value': '#FF9E00',
+  },
+  {
+    'id': 'Keendoo dark mode',
+    'value': '#1D1F24',
   },
   {
     'id': 'Black',
